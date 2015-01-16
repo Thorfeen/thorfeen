@@ -77,6 +77,7 @@ I design systems following robust error management principles to ensure high ava
 - **Bulkhead Isolation:** Partition thread pools, connection limits, and resources to contain component-level failures.
 - **Dead-Letter Queues (DLQ):** Safely capture, isolate, and inspect poisoned or unprocessable messages for asynchronous debugging.
 - **Idempotent Error Recovery:** Guarantee safe retry execution paths without duplicating side effects or data mutations across system boundaries.
+- **Chaos Engineering Validation:** Proactively inject faults and latency in staging environments to verify error-handling resilience before production releases.
 
 ## 📋 Observability & Structured Logging
 
