@@ -90,7 +90,8 @@ I design systems following robust error management principles to ensure high ava
 I prioritize compile-time correctness and rigid interface contracts to eliminate entire classes of runtime defects:
 
 - **Strict Static Typing:** Utilize advanced type systems (TypeScript, Go, Rust) to catch type mismatches, null pointer anomalies, and invalid state transitions at compile time.
-- **Runtime Boundary Validation:** Enforce strict schema validation (using Zod or similar libraries) at system entry points and untrusted I/O boundaries.
+- **Runtime Boundary Validation:** Enforce strict schema validation (using Zod, JSON Schema, or similar validators) at system entry points and untrusted I/O boundaries.
+- **Strict Input Sanitization:** Prevent injection attacks and malformed data payloads by cleaning and normalizing all external inputs prior to business logic execution.
 - **Exhaustive Pattern Matching:** Ensure all possible enum states and union variants are explicitly handled to prevent unhandled edge cases.
 - **Immutable Data Structures:** Favor read-only properties and immutable domain models to eliminate unintended side effects and race conditions.
 - **Contract-First API Design:** Define unambiguous API contracts using OpenAPI, gRPC/Protobuf, and GraphQL schemas prior to implementation.
