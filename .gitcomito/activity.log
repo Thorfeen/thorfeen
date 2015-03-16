@@ -92,3 +92,4 @@
 [2015-03-15T09:42:53.000Z] Handle edge case in parser
 [2015-03-15T17:32:16.000Z] Improve error logging
 [2015-03-16T20:35:20.000Z] Add null check
+[2015-03-16T21:09:34.000Z] Fix formatting issues
