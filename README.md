@@ -91,14 +91,5 @@ I believe that production systems are only as good as their observability pipeli
 - **Tail-Based Sampling:** Capture complete traces and diagnostic logs for high-latency or erroneous requests while conserving ingestion bandwidth.
 - **Secure PII Redaction:** Automatically sanitize and mask sensitive personally identifiable information (PII) and secret credentials at the logging boundary.
 - **Centralized Log Aggregation:** Stream log streams reliably to durable storage backends for deep auditing, compliance, and post-mortem analysis.
-
-## 🌟 Contributions & Community
-
-- **Open Source:** Actively contributing to resilient libraries, distributed tooling, and developer experience utilities.
-- **Knowledge Sharing:** Writing technical breakdowns on system architecture, failure modes, and zero-downtime migrations.
-
-## 🤝 Connect & Collaborate
-
-- 💼 **LinkedIn:** Let's connect on [LinkedIn](https://linkedin.com)
-- 🐦 **X / Twitter:** Follow my thoughts on [X](https://twitter.com)
-- ✉️ **Reach Out:** Feel free to reach out for architectural consulting, code reviews, or open-source collaborations!
+- **Request Correlation & Propagation:** Guarantee end-to-end traceability by passing unique correlation and transaction IDs through HTTP headers and message brokers.
+- **Asynchronous Log Shipping:** Decouple critical execution paths from I/O blocking by utilizing non-blocking ring buffers and background batch shippers.
