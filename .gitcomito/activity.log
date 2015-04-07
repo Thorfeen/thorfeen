@@ -114,3 +114,4 @@
 [2015-03-27T20:24:11.000Z] Bump version
 [2015-03-28T09:01:50.000Z] Improve type definitions
 [2015-03-29T12:56:21.000Z] Fix linting warnings
+[2015-04-07T14:53:45.000Z] Remove dead code
