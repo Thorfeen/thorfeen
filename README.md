@@ -1,6 +1,8 @@
 # Hi there, I'm a Software Engineer 👋
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=github&color=blue&style=flat-square)](https://github.com/github)
+[![Status](https://img.shields.io/badge/Status-Available%20for%20Architectural%20Consulting-success?style=flat-square)](https://github.com/github)
+[![Focus](https://img.shields.io/badge/Focus-Distributed%20Systems%20%26%20Resilience-blue?style=flat-square)](https://github.com/github)
 
 Welcome to my GitHub profile! I specialize in building robust, reliable, and scalable software solutions with a strong emphasis on fault tolerance and graceful degradation.
 
