@@ -147,3 +147,4 @@
 [2015-05-12T13:18:51.000Z] Update package scripts
 [2015-05-17T11:25:49.000Z] Fix minor typo
 [2015-05-17T21:23:16.000Z] Handle edge case in parser
+[2015-05-22T09:42:55.000Z] Improve error logging
