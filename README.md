@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I specialize in building robust, reliable, and sca
 | [💡 Featured Projects](#-featured-projects) | Key architectural contributions |
 | [🛡️ Resilient Engineering](#️-resilient-engineering--error-handling) | Fault tolerance & defensive patterns |
 | [📋 Observability](#-observability--structured-logging) | Telemetry & structured logging |
+| [📬 Connect With Me](#-connect-with-me) | Professional channels & networking |
 
 ## 📊 GitHub Stats
 
@@ -95,3 +96,9 @@ I believe that production systems are only as good as their observability pipeli
 - **Centralized Log Aggregation:** Stream log streams reliably to durable storage backends for deep auditing, compliance, and post-mortem analysis.
 - **Request Correlation & Propagation:** Guarantee end-to-end traceability by passing unique correlation and transaction IDs through HTTP headers and message brokers.
 - **Asynchronous Log Shipping:** Decouple critical execution paths from I/O blocking by utilizing non-blocking ring buffers and background batch shippers.
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:architect@example.com)
