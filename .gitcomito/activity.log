@@ -199,3 +199,4 @@
 [2015-08-16T10:23:22.000Z] Handle edge case in parser
 [2015-08-16T22:54:14.000Z] Improve error logging
 [2015-08-17T21:16:30.000Z] Add null check
+[2015-08-18T11:52:56.000Z] Fix formatting issues
