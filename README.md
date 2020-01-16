@@ -52,6 +52,8 @@ Welcome to my GitHub profile! I specialize in building robust, reliable, and sca
 I design systems following robust error management principles to ensure high availability and self-healing behaviors:
 
 - **Circuit Breakers:** Prevent cascading failures across distributed services during upstream outages by managing Closed, Open, and Half-Open state transitions.
+- **Timeout Enforcement:** Guarantee bounded wait times on all network I/O and remote procedure calls to prevent thread pool exhaustion.
+- **Robust Retry Policies:** Safely re-attempt transient failures with deterministic boundaries and safe execution conditions.
 - **Graceful Degradation:** Maintain core user experiences and fallback execution paths even when non-critical subsystem dependencies fail.
 - **Exponential Backoff & Jitter:** Prevent thundering herd problems during automated retry attempts by introducing randomized delay intervals.
 - **Defensive Pre-flight Checks:** Validate inputs, schemas, and configurations early to fail fast before expensive operations execute.
