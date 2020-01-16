@@ -50,6 +50,7 @@ I design systems following robust error management principles to ensure high ava
 - **Defensive Pre-flight Checks:** Validate inputs, schemas, and configurations early to fail fast before expensive operations execute.
 - **Bulkhead Isolation:** Partition thread pools, connection limits, and resources to contain component-level failures.
 - **Dead-Letter Queues (DLQ):** Safely capture, isolate, and inspect poisoned or unprocessable messages for asynchronous debugging.
+- **Idempotent Error Recovery:** Guarantee safe retry execution paths without duplicating side effects or data mutations across system boundaries.
 
 ## 📋 Observability & Structured Logging
 
