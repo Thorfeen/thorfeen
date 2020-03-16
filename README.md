@@ -71,6 +71,8 @@ I believe that production systems are only as good as their observability pipeli
 - **Metric-Driven Alerts:** Establish actionable SLO/SLA alerts tied directly to log error rates and latency anomalies.
 - **Contextual Metadata Enrichment:** Automatically inject runtime context, user IDs, and environment tags into every log payload.
 - **Tail-Based Sampling:** Capture complete traces and diagnostic logs for high-latency or erroneous requests while conserving ingestion bandwidth.
+- **Secure PII Redaction:** Automatically sanitize and mask sensitive personally identifiable information (PII) and secret credentials at the logging boundary.
+- **Centralized Log Aggregation:** Stream log streams reliably to durable storage backends for deep auditing, compliance, and post-mortem analysis.
 
 ## 🤝 Connect & Collaborate
 
