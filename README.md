@@ -60,24 +60,5 @@ I believe that production systems are only as good as their observability pipeli
 - **Distributed Tracing:** Propagate W3C trace contexts across microservices to trace requests end-to-end.
 - **Log Level Governance:** Dynamically adjust verbosity without restarts to isolate intermittent bugs in production.
 - **Metric-Driven Alerts:** Establish actionable SLO/SLA alerts tied directly to log error rates and latency anomalies.
-
-## 📂 Featured Projects
-
-- **[Project One](https://github.com/username/project-one)**: A high-performance distributed task queue built with Go and Redis, featuring robust error recovery, exponential backoff retry logic, and dead-letter queues.
-- **[Project Two](https://github.com/username/project-two)**: A real-time collaborative code editor using WebSockets and React with graceful degradation, automatic reconnection, and state synchronization on disconnect.
-- **[Project Three](https://github.com/username/project-three)**: Automated infrastructure provisioning scripts using Terraform and AWS with comprehensive pre-flight validation and rollback error handling.
-
-## 📊 GitHub Metrics & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=radial" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github&layout=compact&theme=radial" alt="Top Languages" width="49%" />
-</p>
-
-## 📫 Let's Connect
-
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com)
-- **Website:** [Portfolio](https://example.com)
-
----
-*✨ Continuous integration, fault tolerance, resilient error handling, and clean code.*
+- **Contextual Metadata Enrichment:** Automatically inject runtime context, user IDs, and environment tags into every log payload.
+- **Tail-Based Sampling:** Capture complete traces and diagnostic logs for high-latency or erroneous requests while conserving ingestion bandwidth.
