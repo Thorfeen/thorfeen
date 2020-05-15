@@ -4,6 +4,13 @@
 
 Welcome to my GitHub profile! I specialize in building robust, reliable, and scalable software solutions with a strong emphasis on fault tolerance and graceful degradation.
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
 ## 🚀 Professional Profile
 
 - 🔭 **Core Focus:** Distributed Systems, Cloud Architecture, Full-Stack Engineering
