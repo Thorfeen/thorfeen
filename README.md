@@ -47,6 +47,12 @@ Welcome to my GitHub profile! I specialize in building robust, reliable, and sca
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 [![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
 
+## 💡 Featured Projects
+
+- **Resilient RPC Gateway:** A high-performance proxy in Go implementing circuit breakers, rate limiting, and dynamic upstream health checks.
+- **Distributed Task Scheduler:** A fault-tolerant background job queue leveraging PostgreSQL advisory locks and idempotent worker patterns.
+- **Observability Toolkit:** A lightweight structured logger and tracing wrapper for Node.js and TypeScript microservices.
+
 ## 🛡️ Resilient Engineering & Error Handling
 
 I design systems following robust error management principles to ensure high availability and self-healing behaviors:
