@@ -80,6 +80,11 @@ I believe that production systems are only as good as their observability pipeli
 - **Secure PII Redaction:** Automatically sanitize and mask sensitive personally identifiable information (PII) and secret credentials at the logging boundary.
 - **Centralized Log Aggregation:** Stream log streams reliably to durable storage backends for deep auditing, compliance, and post-mortem analysis.
 
+## 🌟 Contributions & Community
+
+- **Open Source:** Actively contributing to resilient libraries, distributed tooling, and developer experience utilities.
+- **Knowledge Sharing:** Writing technical breakdowns on system architecture, failure modes, and zero-downtime migrations.
+
 ## 🤝 Connect & Collaborate
 
 - 💼 **LinkedIn:** Let's connect on [LinkedIn](https://linkedin.com)
