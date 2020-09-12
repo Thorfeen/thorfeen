@@ -4,6 +4,17 @@
 
 Welcome to my GitHub profile! I specialize in building robust, reliable, and scalable software solutions with a strong emphasis on fault tolerance and graceful degradation.
 
+## 🧭 Quick Navigation
+
+| Section | Description |
+| :--- | :--- |
+| [📊 GitHub Stats](#-github-stats) | Productivity & language metrics |
+| [🚀 Professional Profile](#-professional-profile) | Core focus & engineering philosophy |
+| [🛠️ Technical Stack](#️-technical-stack--ecosystem) | Languages, frameworks, and tools |
+| [💡 Featured Projects](#-featured-projects) | Key architectural contributions |
+| [🛡️ Resilient Engineering](#️-resilient-engineering--error-handling) | Fault tolerance & defensive patterns |
+| [📋 Observability](#-observability--structured-logging) | Telemetry & structured logging |
+
 ## 📊 GitHub Stats
 
 <p align="center">
