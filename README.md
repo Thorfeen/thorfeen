@@ -44,12 +44,12 @@ Welcome to my GitHub profile! I specialize in building robust, reliable, and sca
 
 I design systems following robust error management principles to ensure high availability and self-healing behaviors:
 
-- **Circuit Breakers:** Prevent cascading failures across distributed services during upstream outages.
-- **Graceful Degradation:** Maintain core user experiences even when non-critical subsystem dependencies fail.
-- **Exponential Backoff & Jitter:** Prevent thundering herd problems during automated retry attempts.
-- **Defensive Pre-flight Checks:** Validate inputs and configurations early to fail fast before expensive operations execute.
-- **Bulkhead Isolation:** Partition resources and thread pools to contain failures to isolated components.
-- **Dead-Letter Queues (DLQ):** Safely capture and inspect poisoned or unprocessable messages for asynchronous debugging.
+- **Circuit Breakers:** Prevent cascading failures across distributed services during upstream outages by managing Closed, Open, and Half-Open state transitions.
+- **Graceful Degradation:** Maintain core user experiences and fallback execution paths even when non-critical subsystem dependencies fail.
+- **Exponential Backoff & Jitter:** Prevent thundering herd problems during automated retry attempts by introducing randomized delay intervals.
+- **Defensive Pre-flight Checks:** Validate inputs, schemas, and configurations early to fail fast before expensive operations execute.
+- **Bulkhead Isolation:** Partition thread pools, connection limits, and resources to contain component-level failures.
+- **Dead-Letter Queues (DLQ):** Safely capture, isolate, and inspect poisoned or unprocessable messages for asynchronous debugging.
 
 ## 📋 Observability & Structured Logging
 
