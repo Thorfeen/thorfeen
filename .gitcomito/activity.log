@@ -396,3 +396,4 @@
 [2025-10-04T12:36:33.000Z] Adjust default settings
 [2025-10-04T21:20:44.000Z] Update package scripts
 [2025-10-05T09:40:02.000Z] Fix minor typo
+[2025-10-05T19:17:31.000Z] Handle edge case in parser
