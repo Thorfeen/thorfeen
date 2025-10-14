@@ -414,3 +414,4 @@
 [2025-10-12T22:14:00.000Z] Bump version
 [2025-10-14T14:37:35.000Z] Improve type definitions
 [2025-10-14T14:40:43.000Z] Fix linting warnings
+[2025-10-14T16:59:42.000Z] Remove dead code
