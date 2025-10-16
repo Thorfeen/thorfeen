@@ -725,3 +725,4 @@
 [2025-10-06T22:54:13.000Z] Update package scripts
 [2025-10-10T11:26:56.000Z] Fix minor typo
 [2025-10-10T13:03:40.000Z] Handle edge case in parser
+[2025-10-16T18:41:58.000Z] Improve error logging
