@@ -498,3 +498,4 @@
 [2025-11-10T15:56:33.000Z] Fix minor typo
 [2025-11-10T16:13:03.000Z] Handle edge case in parser
 [2025-11-10T20:15:56.000Z] Improve error logging
+[2025-11-11T09:34:26.000Z] Add null check
