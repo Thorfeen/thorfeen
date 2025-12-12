@@ -774,3 +774,4 @@
 [2025-12-11T16:19:38.000Z] Adjust default settings
 [2025-12-11T22:44:19.000Z] Update package scripts
 [2025-12-12T09:14:57.000Z] Fix minor typo
+[2025-12-12T09:50:24.000Z] Handle edge case in parser
