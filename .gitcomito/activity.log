@@ -601,3 +601,4 @@
 [2025-12-13T09:39:02.000Z] Add null check
 [2025-12-13T14:55:25.000Z] Fix formatting issues
 [2025-12-14T16:01:53.000Z] Update constants
+[2025-12-14T18:53:53.000Z] Refactor error handling
