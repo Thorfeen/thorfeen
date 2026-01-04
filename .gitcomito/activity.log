@@ -791,3 +791,4 @@
 [2026-01-02T12:19:02.000Z] Clean up test helpers
 [2026-01-02T14:26:47.000Z] Bump version
 [2026-01-02T14:48:52.000Z] Improve type definitions
+[2026-01-04T10:12:15.000Z] Fix linting warnings
