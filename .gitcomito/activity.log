@@ -1285,3 +1285,4 @@
 [2026-03-05T22:32:09.000Z] Update package scripts
 [2026-03-06T11:50:35.000Z] Fix minor typo
 [2026-03-06T12:52:28.000Z] Handle edge case in parser
+[2026-03-06T15:10:22.000Z] Improve error logging
