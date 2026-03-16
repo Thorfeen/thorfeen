@@ -992,3 +992,4 @@
 [2026-03-13T22:29:58.000Z] Bump version
 [2026-03-14T17:51:43.000Z] Improve type definitions
 [2026-03-15T15:30:41.000Z] Fix linting warnings
+[2026-03-16T10:42:59.000Z] Remove dead code
