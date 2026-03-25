@@ -1026,3 +1026,4 @@
 [2026-03-25T13:13:31.000Z] Fix minor typo
 [2026-03-25T14:56:43.000Z] Handle edge case in parser
 [2026-03-25T16:38:22.000Z] Improve error logging
+[2026-03-25T20:28:06.000Z] Add null check
