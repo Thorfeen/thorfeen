@@ -1352,3 +1352,4 @@
 [2026-03-26T14:02:51.000Z] Bump version
 [2026-03-26T14:16:37.000Z] Improve type definitions
 [2026-03-26T14:38:31.000Z] Fix linting warnings
+[2026-03-26T16:15:59.000Z] Remove dead code
