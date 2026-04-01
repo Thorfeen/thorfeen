@@ -81,6 +81,8 @@ I design systems following robust error management principles to ensure high ava
 - **Dead-Letter Queues (DLQ):** Safely capture, isolate, and inspect poisoned or unprocessable messages for asynchronous debugging.
 - **Idempotent Error Recovery:** Guarantee safe retry execution paths without duplicating side effects or data mutations across system boundaries.
 - **Chaos Engineering Validation:** Proactively inject faults and latency in staging environments to verify error-handling resilience before production releases.
+- **Structured Fallback Strategies:** Implement deterministic fallback pathways (such as cached responses or default states) when primary data stores or downstream APIs become unreachable.
+- **Explicit Error Categorization:** Differentiate clearly between transient errors (eligible for retry) and fatal business logic exceptions (requiring immediate client reporting or dead-letter queuing).
 
 ## 📋 Observability & Structured Logging
 
