@@ -98,6 +98,7 @@ I believe that production systems are only as good as their observability pipeli
 - **Centralized Log Aggregation:** Stream log streams reliably to durable storage backends for deep auditing, compliance, and post-mortem analysis.
 - **Request Correlation & Propagation:** Guarantee end-to-end traceability by passing unique correlation and transaction IDs through HTTP headers and message brokers.
 - **Asynchronous Log Shipping:** Decouple critical execution paths from I/O blocking by utilizing non-blocking ring buffers and background batch shippers.
+- **Log-Metric Anomaly Correlation:** Correlate log error burst patterns directly with real-time Prometheus metrics and infrastructure telemetry for faster root cause analysis.
 
 ## 📬 Connect With Me
 
