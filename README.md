@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I specialize in building robust, reliable, and sca
 | [🛠️ Technical Stack](#️-technical-stack--ecosystem) | Languages, frameworks, and tools |
 | [💡 Featured Projects](#-featured-projects) | Key architectural contributions |
 | [🛡️ Resilient Engineering](#️-resilient-engineering--error-handling) | Fault tolerance & defensive patterns |
+| [🔒 Type Safety](#-type-safety--strict-contracts) | Compile-time guarantees & validation |
 | [📋 Observability](#-observability--structured-logging) | Telemetry & structured logging |
 | [📬 Connect With Me](#-connect-with-me) | Professional channels & networking |
 
@@ -28,7 +29,7 @@ Welcome to my GitHub profile! I specialize in building robust, reliable, and sca
 ## 🚀 Professional Profile
 
 - 🔭 **Core Focus:** Distributed Systems, Cloud Architecture, Full-Stack Engineering
-- ⚡ **Engineering Philosophy:** Clean code, robust error-handling, circuit breakers, and defensive programming
+- ⚡ **Engineering Philosophy:** Clean code, robust error-handling, strict type safety, and defensive programming
 - 💬 **Expertise:** TypeScript, React, Go, Rust, and Cloud Native Development
 
 ## 🛠️ Technical Stack & Ecosystem
@@ -83,6 +84,16 @@ I design systems following robust error management principles to ensure high ava
 - **Chaos Engineering Validation:** Proactively inject faults and latency in staging environments to verify error-handling resilience before production releases.
 - **Structured Fallback Strategies:** Implement deterministic fallback pathways (such as cached responses or default states) when primary data stores or downstream APIs become unreachable.
 - **Explicit Error Categorization:** Differentiate clearly between transient errors (eligible for retry) and fatal business logic exceptions (requiring immediate client reporting or dead-letter queuing).
+
+## 🔒 Type Safety & Strict Contracts
+
+I prioritize compile-time correctness and rigid interface contracts to eliminate entire classes of runtime defects:
+
+- **Strict Static Typing:** Utilize advanced type systems (TypeScript, Go, Rust) to catch type mismatches, null pointer anomalies, and invalid state transitions at compile time.
+- **Runtime Boundary Validation:** Enforce strict schema validation (using Zod or similar libraries) at system entry points and untrusted I/O boundaries.
+- **Exhaustive Pattern Matching:** Ensure all possible enum states and union variants are explicitly handled to prevent unhandled edge cases.
+- **Immutable Data Structures:** Favor read-only properties and immutable domain models to eliminate unintended side effects and race conditions.
+- **Contract-First API Design:** Define unambiguous API contracts using OpenAPI, gRPC/Protobuf, and GraphQL schemas prior to implementation.
 
 ## 📋 Observability & Structured Logging
 
