@@ -200,3 +200,5 @@ I believe that production systems are only as good as their observability pipeli
 <!-- Doc update (2026-05-06): Backend Services & API Architecture -->
 
 <!-- Doc update (2026-05-07): DevOps & Cloud Infrastructure -->
+
+// Refined: [2026-05-07] improve type safety in Observability & Telemetry in README.md
