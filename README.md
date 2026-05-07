@@ -204,3 +204,5 @@ I believe that production systems are only as good as their observability pipeli
 // Refined: [2026-05-07] improve type safety in Observability & Telemetry in README.md
 
 <!-- Doc update (2026-05-07): 💡 Featured Projects -->
+
+<!-- Doc update (2026-05-07): 🛡️ Resilient Engineering & Error Handling -->
