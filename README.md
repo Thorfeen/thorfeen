@@ -224,3 +224,5 @@ I believe that production systems are only as good as their observability pipeli
 <!-- Doc update (2026-05-09): 🛠️ Technical Stack & Ecosystem -->
 
 <!-- Doc update (2026-05-09): Programming Languages -->
+
+// Refined: [2026-05-09] add test coverage for Frontend & UI Engineering in README.md
