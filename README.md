@@ -222,3 +222,5 @@ I believe that production systems are only as good as their observability pipeli
 // Refined: [2026-05-09] clean up 🚀 Professional Profile in README.md
 
 <!-- Doc update (2026-05-09): 🛠️ Technical Stack & Ecosystem -->
+
+<!-- Doc update (2026-05-09): Programming Languages -->
