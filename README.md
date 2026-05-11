@@ -258,3 +258,5 @@ I believe that production systems are only as good as their observability pipeli
 // Refined: [2026-05-11] handle edge cases in Frontend & UI Engineering in README.md
 
 <!-- Doc update (2026-05-11): Backend Services & API Architecture -->
+
+<!-- Doc update (2026-05-11): DevOps & Cloud Infrastructure -->
