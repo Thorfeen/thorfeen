@@ -288,3 +288,5 @@ I believe that production systems are only as good as their observability pipeli
 // Refined: [2026-05-12] improve type safety in Frontend & UI Engineering in README.md
 
 <!-- Doc update (2026-05-13): Backend Services & API Architecture -->
+
+<!-- Doc update (2026-05-13): DevOps & Cloud Infrastructure -->
