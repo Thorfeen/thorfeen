@@ -298,3 +298,5 @@ I believe that production systems are only as good as their observability pipeli
 <!-- Doc update (2026-05-14): 🛡️ Resilient Engineering & Error Handling -->
 
 // Refined: [2026-05-14] improve 🔒 Type Safety & Strict Contracts in README.md
+
+<!-- Doc update (2026-05-15): 📋 Observability & Structured Logging -->
