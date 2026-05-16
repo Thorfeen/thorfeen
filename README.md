@@ -308,3 +308,5 @@ I believe that production systems are only as good as their observability pipeli
 <!-- Doc update (2026-05-15): 🧭 Quick Navigation -->
 
 <!-- Doc update (2026-05-16): 📊 GitHub Stats -->
+
+// Refined: [2026-05-16] add test coverage for 🚀 Professional Profile in README.md
