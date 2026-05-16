@@ -318,3 +318,5 @@ I believe that production systems are only as good as their observability pipeli
 // Refined: [2026-05-16] refine error handling in Frontend & UI Engineering in README.md
 
 <!-- Doc update (2026-05-16): Backend Services & API Architecture -->
+
+<!-- Doc update (2026-05-16): DevOps & Cloud Infrastructure -->
