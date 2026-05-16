@@ -312,3 +312,5 @@ I believe that production systems are only as good as their observability pipeli
 // Refined: [2026-05-16] add test coverage for 🚀 Professional Profile in README.md
 
 <!-- Doc update (2026-05-16): 🛠️ Technical Stack & Ecosystem -->
+
+<!-- Doc update (2026-05-16): Programming Languages -->
