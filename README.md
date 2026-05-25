@@ -406,3 +406,5 @@ I believe that production systems are only as good as their observability pipeli
 <!-- Doc update (2026-05-25): Programming Languages -->
 
 // Refined: [2026-05-25] refactor Frontend & UI Engineering in README.md
+
+<!-- Doc update (2026-05-25): Backend Services & API Architecture -->
