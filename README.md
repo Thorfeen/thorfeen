@@ -444,3 +444,5 @@ I believe that production systems are only as good as their observability pipeli
 // Refined: [2026-05-27] clarify Observability & Telemetry in README.md
 
 <!-- Doc update (2026-05-27): 💡 Featured Projects -->
+
+<!-- Doc update (2026-05-27): 🛡️ Resilient Engineering & Error Handling -->
