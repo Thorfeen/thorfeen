@@ -454,3 +454,5 @@ I believe that production systems are only as good as their observability pipeli
 <!-- Doc update (2026-05-27): 📬 Connect With Me -->
 
 // Refined: [2026-05-28] improve type safety in Hi there, I'm a Software Engineer 👋 in README.md
+
+<!-- Doc update (2026-05-28): 🧭 Quick Navigation -->
