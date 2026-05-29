@@ -472,3 +472,5 @@ I believe that production systems are only as good as their observability pipeli
 <!-- Doc update (2026-05-29): DevOps & Cloud Infrastructure -->
 
 // Refined: [2026-05-29] clean up Observability & Telemetry in README.md
+
+<!-- Doc update (2026-05-29): 💡 Featured Projects -->
