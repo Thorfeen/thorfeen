@@ -480,3 +480,5 @@ I believe that production systems are only as good as their observability pipeli
 // Refined: [2026-05-29] add test coverage for 🔒 Type Safety & Strict Contracts in README.md
 
 <!-- Doc update (2026-05-30): 📋 Observability & Structured Logging -->
+
+<!-- Doc update (2026-05-30): 📬 Connect With Me -->
