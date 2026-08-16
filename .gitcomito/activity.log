@@ -228,3 +228,4 @@
 [2026-08-16T17:14:02.000Z] Fix minor typo
 [2026-08-16T18:26:59.000Z] Handle edge case in parser
 [2026-08-16T19:27:59.000Z] Improve error logging
+[2026-08-16T20:49:13.000Z] Add null check
