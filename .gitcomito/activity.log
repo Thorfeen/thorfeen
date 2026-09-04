@@ -310,3 +310,4 @@
 [2026-08-26T19:22:27.000Z] Bump version
 [2026-09-01T14:45:33.000Z] Improve type definitions
 [2026-09-01T17:56:15.000Z] Fix linting warnings
+[2026-09-04T14:03:26.000Z] Remove dead code
