@@ -1,11 +1,11 @@
 # Hi there, I'm a Software Engineer 👋
 
-Welcome to my GitHub profile! I specialize in building robust, reliable, and scalable software solutions.
+Welcome to my GitHub profile! I specialize in building robust, reliable, and scalable software solutions with a strong emphasis on fault tolerance and graceful degradation.
 
 ## 🚀 About Me
 
 - 🔭 **Focus Areas:** Distributed Systems, Cloud Architecture, Full-Stack Engineering
-- ⚡ **Philosophy:** Clean code, strong test coverage, robust error-handling, and continuous integration
+- ⚡ **Philosophy:** Clean code, robust error-handling, circuit breakers, and defensive programming
 - 💬 **Ask me about:** TypeScript, React, Go, and Cloud Native Development
 
 ## 🛠️ Tech Stack & Tools
@@ -38,9 +38,9 @@ Welcome to my GitHub profile! I specialize in building robust, reliable, and sca
 
 ## 📂 Featured Projects
 
-- **[Project One](https://github.com/username/project-one)**: A high-performance distributed task queue built with Go and Redis, featuring robust error recovery and retry logic.
-- **[Project Two](https://github.com/username/project-two)**: A real-time collaborative code editor using WebSockets and React with graceful degradation on disconnect.
-- **[Project Three](https://github.com/username/project-three)**: Automated infrastructure provisioning scripts using Terraform and AWS with comprehensive validation.
+- **[Project One](https://github.com/username/project-one)**: A high-performance distributed task queue built with Go and Redis, featuring robust error recovery, exponential backoff retry logic, and dead-letter queues.
+- **[Project Two](https://github.com/username/project-two)**: A real-time collaborative code editor using WebSockets and React with graceful degradation, automatic reconnection, and state synchronization on disconnect.
+- **[Project Three](https://github.com/username/project-three)**: Automated infrastructure provisioning scripts using Terraform and AWS with comprehensive pre-flight validation and rollback error handling.
 
 ## 📊 GitHub Stats
 
@@ -55,4 +55,4 @@ Welcome to my GitHub profile! I specialize in building robust, reliable, and sca
 - **Website:** [Portfolio](https://example.com)
 
 ---
-*✨ Continuous integration, fault tolerance, and clean code.*
+*✨ Continuous integration, fault tolerance, resilient error handling, and clean code.*
