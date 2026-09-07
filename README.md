@@ -47,6 +47,15 @@ I design systems following robust error management principles to ensure high ava
 - **Bulkhead Isolation:** Partition resources and thread pools to contain failures to isolated components.
 - **Dead-Letter Queues (DLQ):** Safely capture and inspect poisoned or unprocessable messages for asynchronous debugging.
 
+## 📋 Observability & Structured Logging
+
+I believe that production systems are only as good as their observability pipelines:
+
+- **Structured JSON Logging:** Emit machine-parseable log entries with contextual metadata, correlation IDs, and severity levels.
+- **Distributed Tracing:** Propagate W3C trace contexts across microservices to trace requests end-to-end.
+- **Log Level Governance:** Dynamically adjust verbosity without restarts to isolate intermittent bugs in production.
+- **Metric-Driven Alerts:** Establish actionable SLO/SLA alerts tied directly to log error rates and latency anomalies.
+
 ## 📂 Featured Projects
 
 - **[Project One](https://github.com/username/project-one)**: A high-performance distributed task queue built with Go and Redis, featuring robust error recovery, exponential backoff retry logic, and dead-letter queues.
