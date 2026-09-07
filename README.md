@@ -44,6 +44,8 @@ I design systems following robust error management principles to ensure high ava
 - **Graceful Degradation:** Maintain core user experiences even when non-critical subsystem dependencies fail.
 - **Exponential Backoff & Jitter:** Prevent thundering herd problems during automated retry attempts.
 - **Defensive Pre-flight Checks:** Validate inputs and configurations early to fail fast before expensive operations execute.
+- **Bulkhead Isolation:** Partition resources and thread pools to contain failures to isolated components.
+- **Dead-Letter Queues (DLQ):** Safely capture and inspect poisoned or unprocessable messages for asynchronous debugging.
 
 ## 📂 Featured Projects
 
