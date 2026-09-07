@@ -36,6 +36,12 @@ Welcome to my GitHub profile! I specialize in building robust, reliable, and sca
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 [![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
 
+## 📂 Featured Projects
+
+- **[Project One](https://github.com/username/project-one)**: A high-performance distributed task queue built with Go and Redis.
+- **[Project Two](https://github.com/username/project-two)**: A real-time collaborative code editor using WebSockets and React.
+- **[Project Three](https://github.com/username/project-three)**: Automated infrastructure provisioning scripts using Terraform and AWS.
+
 ## 📊 GitHub Stats
 
 <p align="center">
