@@ -36,6 +36,15 @@ Welcome to my GitHub profile! I specialize in building robust, reliable, and sca
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 [![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
 
+## 🛡️ Resilient Engineering & Error Handling
+
+I design systems following robust error management principles to ensure high availability and self-healing behaviors:
+
+- **Circuit Breakers:** Prevent cascading failures across distributed services during upstream outages.
+- **Graceful Degradation:** Maintain core user experiences even when non-critical subsystem dependencies fail.
+- **Exponential Backoff & Jitter:** Prevent thundering herd problems during automated retry attempts.
+- **Defensive Pre-flight Checks:** Validate inputs and configurations early to fail fast before expensive operations execute.
+
 ## 📂 Featured Projects
 
 - **[Project One](https://github.com/username/project-one)**: A high-performance distributed task queue built with Go and Redis, featuring robust error recovery, exponential backoff retry logic, and dead-letter queues.
