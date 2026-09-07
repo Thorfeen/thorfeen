@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile! I specialize in building robust, reliable, and scalable software solutions.
 
+## 🚀 About Me
+
+- 🔭 **Focus Areas:** Distributed Systems, Cloud Architecture, Full-Stack Engineering
+- ⚡ **Philosophy:** Clean code, strong test coverage, and continuous integration
+- 💬 **Ask me about:** TypeScript, React, Go, and Cloud Native Development
+
 ## 🛠️ Tech Stack & Tools
 
 ### Languages
@@ -32,8 +38,10 @@ Welcome to my GitHub profile! I specialize in building robust, reliable, and sca
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=github&layout=compact&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=radial" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github&layout=compact&theme=radial" alt="Top Languages" width="49%" />
+</p>
 
 ## 📫 Let's Connect
 
