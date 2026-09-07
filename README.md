@@ -1,5 +1,7 @@
 # Hi there, I'm a Software Engineer 👋
 
+[![Visitor Count](https://komarev.com/ghpvc/?username=github&color=blue&style=flat-square)](https://github.com/github)
+
 Welcome to my GitHub profile! I specialize in building robust, reliable, and scalable software solutions with a strong emphasis on fault tolerance and graceful degradation.
 
 ## 🚀 About Me
