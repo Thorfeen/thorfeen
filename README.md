@@ -85,6 +85,8 @@ I design systems following robust error management principles to ensure high ava
 - **Structured Fallback Strategies:** Implement deterministic fallback pathways (such as cached responses or default states) when primary data stores or downstream APIs become unreachable.
 - **Explicit Error Categorization:** Differentiate clearly between transient errors (eligible for retry) and fatal business logic exceptions (requiring immediate client reporting or dead-letter queuing).
 - **Error Budget & SLO Integration:** Track error rates against quantifiable Service Level Objectives to establish empirical thresholds for system stability and automated freeze policies.
+- **Defensive Timeout Budget Allocation:** Propagate distributed timeout budgets across synchronous execution chains to terminate deadlocked requests preemptively.
+- **Circuit Breaker Recovery Fallback:** Execute safe fallback responses immediately upon circuit breaker trip to maintain seamless user experience during partial outages.
 
 ## 🔒 Type Safety & Strict Contracts
 
